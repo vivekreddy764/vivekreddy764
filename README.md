@@ -3,7 +3,7 @@ This is a ✨ special ✨ repository:
 ## Welcome To My Gravity 
 
 - 👋 Hi, I’m @Saivivek Reddy<br>
-This is Me: <br> *“Every time I learn a new thing. Something haunts me in constant, that I don't know a lot more”.*
+This is Me: <br> ***“Every time I learn a new thing. Something haunts me in constant, that I don't know a lot more”.***
 
 - 👀 I’m interested in ... Big Data, Internet of Things, Software development and Operations Managment.
 
