@@ -3,7 +3,7 @@ This is a ✨ special ✨ repository:
 ## Welcome To My Gravity 
 
 - 👋 Hi, I’m @Saivivek Reddy<br>
-- ****Board Of Director: GK Group Of Companies****
+- ****BOD: The Gravity Group****
 <br> ***“Every time I learn a new thing. Something haunts me in constant, that I don't know a lot more”.***
 
 - 👀 Interested in ... Big Data, Internet of Things, Software development and Operations Managment.
